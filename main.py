@@ -1,6 +1,6 @@
 import test_manual
 from test_colour_code_identifier import *
-from reference_manual import *
+from Manual import *
 
 if __name__ == '__main__':
     execute_tests()
