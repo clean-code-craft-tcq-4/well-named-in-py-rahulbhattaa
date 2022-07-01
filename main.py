@@ -1,5 +1,5 @@
 import test_manual
-from test_color_codes_identifier import *
+from test_colour_code_identifier import *
 from reference_manual import *
 
 if __name__ == '__main__':
