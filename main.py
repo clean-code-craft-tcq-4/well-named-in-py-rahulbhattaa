@@ -4,6 +4,6 @@ from Manual import *
 
 if __name__ == '__main__':
     execute_tests()
-    reference_manual()
+    print_manual()
     test_manual.execute_tests()
     print('Done :)')
