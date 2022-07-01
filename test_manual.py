@@ -1,4 +1,4 @@
-from manual import colour_codes_mapper
+from Manual import colour_codes_mapper
 
 
 def test_reference_manual(color_code, zero_based_pair_number):
