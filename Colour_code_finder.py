@@ -1,4 +1,4 @@
-from colour_code import MAJOR_COLORS, MINOR_COLORS
+from Colour_code import MAJOR_COLORS, MINOR_COLORS
 
 
 def get_color_from_pair_number(pair_number):
