@@ -6,7 +6,7 @@ def colour_codes_mapper():
     pair_number = 1
     for major_color in MAJOR_COLORS:
         for minor_color in MINOR_COLORS:
-            color_codes.append(list((pair_number, major_color, minor_color)))
+            colour_codes.append(list((pair_number, major_color, minor_color)))
             pair_number = pair_number + 1
     return color_codes
 
@@ -14,4 +14,4 @@ def colour_codes_mapper():
 def print_manual():
     colour_codes = colour_codes_mapper()
     for colour_code in colour_codes:
-        print(color_code)
+        print(colour_code)
