@@ -8,7 +8,7 @@ def colour_codes_mapper():
         for minor_color in MINOR_COLORS:
             colour_codes.append(list((pair_number, major_color, minor_color)))
             pair_number = pair_number + 1
-    return color_codes
+    return colour_codes
 
 
 def print_manual():
