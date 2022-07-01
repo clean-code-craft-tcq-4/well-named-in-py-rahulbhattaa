@@ -1,4 +1,4 @@
-from colour_code import *
+from Colour_code import *
 
 
 def colour_codes_mapper():
