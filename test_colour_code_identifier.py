@@ -1,4 +1,4 @@
-from Colour_codes_finder import *
+from Colour_code_finder import *
 
 
 def test_number_to_pair(pair_number, expected_major_color, expected_minor_color):
